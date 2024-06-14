@@ -17,6 +17,7 @@
 (10) 점프 / 젤리,하트습득 / 장애물 부딪힘 / 게임오버 시 효과음
 (11) 젤리, 하트습득 / 장애물 부딪힘 시 이펙트
 (12) 강아지가 달리는 모습 구현
+
 ![image](https://github.com/seungjae708/C-TermProject-Dog-Run-/assets/64647590/040a7cdf-7e67-4523-9c4b-05addb0007a9)![image](https://github.com/seungjae708/C-TermProject-Dog-Run-/assets/64647590/5fb4708e-dcba-4d10-b308-a47bb2a56c32)
 
 
