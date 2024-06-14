@@ -1,0 +1,76 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(Lab11-5-jump.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  DogRUN.c
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(92,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(105,9): warning C4566: 유니버설 문자 이름 '\u5F61'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(105,9): warning C4566: 유니버설 문자 이름 '\uFF64'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(143,9): warning C4566: 유니버설 문자 이름 '\u5F61'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(143,9): warning C4566: 유니버설 문자 이름 '\uFF64'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(194,9): warning C4566: 유니버설 문자 이름 '\u5F61'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(194,9): warning C4566: 유니버설 문자 이름 '\uFF64'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(252,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(269,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(279,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(511,33): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(511,33): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(513,33): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(513,33): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(515,33): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(515,33): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(517,33): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(517,33): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(531,33): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(531,33): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(533,33): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(533,33): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(535,33): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(535,33): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(537,33): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(537,33): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(607,7): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(712,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(715,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(736,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(733,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(733,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(751,26): warning C4305: '함수': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(764,26): warning C4305: '함수': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(841,4): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1000,31): warning C4566: 유니버설 문자 이름 '\u5F61'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1000,31): warning C4566: 유니버설 문자 이름 '\uFF64'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1015,32): warning C4566: 유니버설 문자 이름 '\u5F61'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1015,32): warning C4566: 유니버설 문자 이름 '\uFF64'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1092,31): warning C4566: 유니버설 문자 이름 '\u5F61'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1092,31): warning C4566: 유니버설 문자 이름 '\uFF64'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1107,32): warning C4566: 유니버설 문자 이름 '\u5F61'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1107,32): warning C4566: 유니버설 문자 이름 '\uFF64'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1184,31): warning C4566: 유니버설 문자 이름 '\u5F61'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1184,31): warning C4566: 유니버설 문자 이름 '\uFF64'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1199,32): warning C4566: 유니버설 문자 이름 '\u5F61'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1199,32): warning C4566: 유니버설 문자 이름 '\uFF64'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1269,27): warning C4305: '함수': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1281,34): warning C4047: '함수': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1281,29): warning C4024: 'draw_box4': 형식 및 실제 매개 변수 5의 형식이 서로 다릅니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1283,33): warning C4047: '함수': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1283,28): warning C4024: 'draw_box2': 형식 및 실제 매개 변수 5의 형식이 서로 다릅니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1336,31): warning C4047: '함수': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1336,26): warning C4024: 'draw_box2': 형식 및 실제 매개 변수 5의 형식이 서로 다릅니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1337,31): warning C4047: '함수': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1337,26): warning C4024: 'draw_box3': 형식 및 실제 매개 변수 5의 형식이 서로 다릅니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1338,32): warning C4047: '함수': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1338,27): warning C4024: 'draw_box4': 형식 및 실제 매개 변수 5의 형식이 서로 다릅니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1342,29): warning C4244: '함수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1358,29): warning C4244: '함수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1373,29): warning C4244: '함수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(844,3): warning C4996: 'spawnl': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _spawnl. See online help for details.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(932,8): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(934,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1287,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1401,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1403,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1411,10): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1414,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1429,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1536,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Lab11-5\DogRUN.c(1539,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  LINK : C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Debug\DogRUN.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  Lab11-5.vcxproj -> C:\Users\USER\Desktop\대학\2-1\프로그래밍랩\Lab11-실습\텀프 코드-2071321-최승재\Debug\DogRUN.exe
